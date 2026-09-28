@@ -37,17 +37,19 @@ O projeto é organizado nas seguintes etapas que se encontram nos códigos desse
 
 ### Autoria
 
-**L. H. Gavazza Pessôa**  
+**[L. H. Gavazza Pessôa](https://github.com/LiliaGavazza)**  
+
 Ilum – Escola de Ciência  
 Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)
 
-**L. Davoli**
+**[L. Davoli](https://github.com/luiza160)**
+
 Ilum – Escola de Ciência  
 Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)
 
 ### Orientação
 
-**[J. Almeida](https://github.com/jamesmalmeida)]**
+**[J. Almeida](https://github.com/jamesmalmeida)**
 
 ### Referências
 
