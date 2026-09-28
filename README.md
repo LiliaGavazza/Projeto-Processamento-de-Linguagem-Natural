@@ -1,4 +1,4 @@
-# Mapeando a Eficiência de Células Solares de Perovskitas com Processamento de Linguagem Natural
+# Mapeamento da Eficiência de Células Solares de Perovskitas com Processamento de Linguagem Natural
 
 Este repositório reúne os códigos desenvolvidos no projeto "Mapeando a Eficiência de Células Solares de Perovskita com Processamento de Linguagem Natural", voltado à extração e análise de informações sobre composição, processamento e eficiência de células solares de perovskita (PSCs) a partir da literatura científica.
 
